@@ -1,0 +1,22 @@
+
+26:08:2022 00:27:53 - root - DEBUG - Debug message
+
+26:08:2022 00:27:53 - root - INFO - Info message
+
+26:08:2022 00:27:53 - root - WARNING - Warning message
+
+26:08:2022 00:27:53 - root - ERROR - Error message
+
+26:08:2022 00:27:53 - root - CRITICAL - Critical message
+
+26:08:2022 00:27:53 - root - WARNING - list index out of range Traceback (most recent call last):
+  File "C:\Users\Vignesh\PycharmProjects\Pythus 2.0\Loggings.py", line 19, in <module>
+    var4 = var3[2]
+IndexError: list index out of range
+
+
+26:08:2022 00:27:53 - root - INFO - Hi!
+
+26:08:2022 00:27:53 - __main__ - INFO - New Logger.
+
+26:08:2022 00:27:53 - __main__ - WARNING - Warning
