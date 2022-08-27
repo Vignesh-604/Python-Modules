@@ -1,0 +1,2 @@
+2022-08-26 00:27:53,262 - __main__ - INFO - New Logger.
+2022-08-26 00:27:53,262 - __main__ - WARNING - Warning
